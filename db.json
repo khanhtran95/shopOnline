@@ -1,0 +1,68 @@
+{
+  "products" : [
+	  {
+		"id": 1,
+		"name": "Samsung Galaxy A8",
+		"price": 9790000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/03_2018/thumbs/600_A8_gold_800x800.jpg",
+		"status": true
+	  },
+	  {
+		"id": 2,
+		"name": "Apple iPhone 7",
+		"price": 9100000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/04_2018/thumbs/600_7gold.jpg",
+		"status": true
+	  },
+	  {
+		"id": 3,
+		"name": "Samsung Galaxy S8 Plus",
+		"price": 11000000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/05_2018/thumbs/600_s8_plus_gold_800x800.jpg",
+		"status": true
+	  },
+	  {
+		"id": 4,
+		"name": "Samsung Galaxy Note FE",
+		"price": 9590000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/01_2018/thumbs/600_note_fe_vang.png",
+		"status": false
+	  },
+	  {
+		"id": 5,
+		"name": "Apple iPad Mini 4",
+		"price": 7000000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/03_2018/thumbs/600_ipad_mini_4_800x800.jpg",
+		"status": true
+	  },
+	  {
+		"id": 6,
+		"name": "LG G6 Bản Mỹ",
+		"price": 4700000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/04_2018/thumbs/600_lg6_d.jpg",
+		"status": false
+	  },
+	  {
+		"id": 7,
+		"name": "HTC U11 Life Bản Mỹ",
+		"price": 5690000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/06_2018/thumbs/600_htc_u11.jpg",
+		"status": true
+	  },
+	  {
+		"id": 8,
+		"name": "Apple iPhone SE",
+		"price": 4290000,
+		"image": "https://www.xtmobile.vn/vnt_upload/product/06_2018/thumbs/600_se_800x800_1.jpg",
+		"status": true
+	  },
+	  {
+		"id": 9,
+		"name": "Xiaomi Mi 2S",
+		"price": 12890000,
+		"image": "https://cdn.tgdd.vn/Products/Images/42/151471/xiaomi-mi-mix-2s-1-400x460.png",
+		"status": false
+	  }
+	  
+  ]
+}
